@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projekt>
+    <aruanded>
+        <aruanne>
+            <kasutaja>
+                <nimi>Aleksander</nimi>
+                <perekonnanimi>Ivanov</perekonnanimi>
+                <roll>Arendaja</roll>
+                <sisselogimisaeg>2024-10-23T08:11:11</sisselogimisaeg>
+                <kinnitusstaatus>Kinnitatud</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Kasutaja osales süsteemi arendamises</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Maria</nimi>
+                <perekonnanimi>Smirnova</perekonnanimi>
+                <roll>Testija</roll>
+                <sisselogimisaeg>2024-10-22T09:15:00</sisselogimisaeg>
+                <kinnitusstaatus>Ootel</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Testitud mitmesuguseid funktsioone</lisainfo>
+        </aruanne>
+    </aruanded>
+</projekt>
