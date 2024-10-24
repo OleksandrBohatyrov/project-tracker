@@ -21,5 +21,215 @@
             </kasutaja>
             <lisainfo>Testitud mitmesuguseid funktsioone</lisainfo>
         </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Oleg</nimi>
+                <perekonnanimi>Grigorev</perekonnanimi>
+                <roll>Arhitekt</roll>
+                <sisselogimisaeg>2024-10-18T13:10:00</sisselogimisaeg>
+                <kinnitusstaatus>Kinnitatud</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Arhitektuurilise lahenduse planeerimine</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Elena</nimi>
+                <perekonnanimi>Sokolova</perekonnanimi>
+                <roll>Disainer</roll>
+                <sisselogimisaeg>2024-10-17T11:30:00</sisselogimisaeg>
+                <kinnitusstaatus>Ootel</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Kasutajaliidese kujundamine</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Alexey</nimi>
+                <perekonnanimi>Orlov</perekonnanimi>
+                <roll>Administraator</roll>
+                <sisselogimisaeg>2024-10-16T09:50:00</sisselogimisaeg>
+                <kinnitusstaatus>Kinnitatud</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Serveri hooldustööd</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Dmitry</nimi>
+                <perekonnanimi>Kiselev</perekonnanimi>
+                <roll>Testija</roll>
+                <sisselogimisaeg>2024-10-19T15:00:00</sisselogimisaeg>
+                <kinnitusstaatus>Ootel</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Testis sisselogimise funktsionaalsust</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Andrei</nimi>
+                <perekonnanimi>Belov</perekonnanimi>
+                <roll>Arendaja</roll>
+                <sisselogimisaeg>2024-10-21T16:20:00</sisselogimisaeg>
+                <kinnitusstaatus>Kinnitatud</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Vea parandamine koodis</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Tatiana</nimi>
+                <perekonnanimi>Vorontsova</perekonnanimi>
+                <roll>Disainer</roll>
+                <sisselogimisaeg>2024-10-22T12:45:00</sisselogimisaeg>
+                <kinnitusstaatus>Ootel</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Graafilise disaini loomine</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Victor</nimi>
+                <perekonnanimi>Smirnov</perekonnanimi>
+                <roll>Analüütik</roll>
+                <sisselogimisaeg>2024-10-23T14:00:00</sisselogimisaeg>
+                <kinnitusstaatus>Kinnitatud</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Turuanalüüs</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Irina</nimi>
+                <perekonnanimi>Pavlova</perekonnanimi>
+                <roll>Testija</roll>
+                <sisselogimisaeg>2024-10-24T08:30:00</sisselogimisaeg>
+                <kinnitusstaatus>Ootel</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Testitud väljundite kvaliteeti</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Mikhail</nimi>
+                <perekonnanimi>Lebedev</perekonnanimi>
+                <roll>Administraator</roll>
+                <sisselogimisaeg>2024-10-25T10:10:00</sisselogimisaeg>
+                <kinnitusstaatus>Kinnitatud</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Serveri konfiguratsiooni muudatused</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Ksenia</nimi>
+                <perekonnanimi>Yakovleva</perekonnanimi>
+                <roll>Kujundaja</roll>
+                <sisselogimisaeg>2024-10-26T13:50:00</sisselogimisaeg>
+                <kinnitusstaatus>Ootel</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Kujundatud uued ikoonid</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Denis</nimi>
+                <perekonnanimi>Markov</perekonnanimi>
+                <roll>Arhitekt</roll>
+                <sisselogimisaeg>2024-10-27T15:30:00</sisselogimisaeg>
+                <kinnitusstaatus>Kinnitatud</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Tehnilise arhitektuuri põhimõtete ülevaade</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Roman</nimi>
+                <perekonnanimi>Volkov</perekonnanimi>
+                <roll>Analüütik</roll>
+                <sisselogimisaeg>2024-10-28T09:40:00</sisselogimisaeg>
+                <kinnitusstaatus>Ootel</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Andmete analüüs ja raporteerimine</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Ivan</nimi>
+                <perekonnanimi>Petrov</perekonnanimi>
+                <roll>Juht</roll>
+                <sisselogimisaeg>2024-10-24T10:30:00</sisselogimisaeg>
+                <kinnitusstaatus>Kinnitatud</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Osales juhtimises</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Olga</nimi>
+                <perekonnanimi>Sergeeva</perekonnanimi>
+                <roll>Kujundaja</roll>
+                <sisselogimisaeg>2024-10-21T08:45:00</sisselogimisaeg>
+                <kinnitusstaatus>Kinnitatud</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Loodud uus kujundus</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Nikolai</nimi>
+                <perekonnanimi>Kuznetsov</perekonnanimi>
+                <roll>Arhitekt</roll>
+                <sisselogimisaeg>2024-10-21T09:00:00</sisselogimisaeg>
+                <kinnitusstaatus>Ootel</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Projekt arhitektuuri plaan</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Anna</nimi>
+                <perekonnanimi>Morozova</perekonnanimi>
+                <roll>Testija</roll>
+                <sisselogimisaeg>2024-10-24T11:00:00</sisselogimisaeg>
+                <kinnitusstaatus>Kinnitatud</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Testis uusi funktsioone</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Vladimir</nimi>
+                <perekonnanimi>Popov</perekonnanimi>
+                <roll>Administraator</roll>
+                <sisselogimisaeg>2024-10-25T12:15:00</sisselogimisaeg>
+                <kinnitusstaatus>Ootel</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Süsteemi hooldus</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Ekaterina</nimi>
+                <perekonnanimi>Fedorova</perekonnanimi>
+                <roll>Disainer</roll>
+                <sisselogimisaeg>2024-10-26T08:15:00</sisselogimisaeg>
+                <kinnitusstaatus>Kinnitatud</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Uus kujundus</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Sergey</nimi>
+                <perekonnanimi>Zaitsev</perekonnanimi>
+                <roll>Analüütik</roll>
+                <sisselogimisaeg>2024-10-27T10:45:00</sisselogimisaeg>
+                <kinnitusstaatus>Ootel</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Andmeanalüüsi teostamine</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Igor</nimi>
+                <perekonnanimi>Vasilev</perekonnanimi>
+                <roll>Arendaja</roll>
+                <sisselogimisaeg>2024-10-15T14:00:00</sisselogimisaeg>
+                <kinnitusstaatus>Kinnitatud</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Arendatud uus moodul</lisainfo>
+        </aruanne>
+        <aruanne>
+            <kasutaja>
+                <nimi>Natalia</nimi>
+                <perekonnanimi>Mikhailova</perekonnanimi>
+                <roll>Testija</roll>
+                <sisselogimisaeg>2024-10-20T10:20:00</sisselogimisaeg>
+                <kinnitusstaatus>Ootel</kinnitusstaatus>
+            </kasutaja>
+            <lisainfo>Funktsionaalsuse testimine</lisainfo>
+        </aruanne>
     </aruanded>
 </projekt>
