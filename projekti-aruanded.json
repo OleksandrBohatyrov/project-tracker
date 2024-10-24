@@ -1,0 +1,236 @@
+{
+    "aruanded": {
+        "aruanne": [
+            {
+                "kasutaja": {
+                    "nimi": "Aleksander",
+                    "perekonnanimi": "Ivanov",
+                    "roll": "Arendaja",
+                    "sisselogimisaeg": "2024-10-23T08:11:11",
+                    "kinnitusstaatus": "Kinnitatud"
+                },
+                "lisainfo": "Kasutaja osales s\u00fcsteemi arendamises"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Maria",
+                    "perekonnanimi": "Smirnova",
+                    "roll": "Testija",
+                    "sisselogimisaeg": "2024-10-22T09:15:00",
+                    "kinnitusstaatus": "Ootel"
+                },
+                "lisainfo": "Testitud mitmesuguseid funktsioone"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Oleg",
+                    "perekonnanimi": "Grigorev",
+                    "roll": "Arhitekt",
+                    "sisselogimisaeg": "2024-10-18T13:10:00",
+                    "kinnitusstaatus": "Kinnitatud"
+                },
+                "lisainfo": "Arhitektuurilise lahenduse planeerimine"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Elena",
+                    "perekonnanimi": "Sokolova",
+                    "roll": "Disainer",
+                    "sisselogimisaeg": "2024-10-17T11:30:00",
+                    "kinnitusstaatus": "Ootel"
+                },
+                "lisainfo": "Kasutajaliidese kujundamine"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Alexey",
+                    "perekonnanimi": "Orlov",
+                    "roll": "Administraator",
+                    "sisselogimisaeg": "2024-10-16T09:50:00",
+                    "kinnitusstaatus": "Kinnitatud"
+                },
+                "lisainfo": "Serveri hooldust\u00f6\u00f6d"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Dmitry",
+                    "perekonnanimi": "Kiselev",
+                    "roll": "Testija",
+                    "sisselogimisaeg": "2024-10-19T15:00:00",
+                    "kinnitusstaatus": "Ootel"
+                },
+                "lisainfo": "Testis sisselogimise funktsionaalsust"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Andrei",
+                    "perekonnanimi": "Belov",
+                    "roll": "Arendaja",
+                    "sisselogimisaeg": "2024-10-21T16:20:00",
+                    "kinnitusstaatus": "Kinnitatud"
+                },
+                "lisainfo": "Vea parandamine koodis"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Tatiana",
+                    "perekonnanimi": "Vorontsova",
+                    "roll": "Disainer",
+                    "sisselogimisaeg": "2024-10-22T12:45:00",
+                    "kinnitusstaatus": "Ootel"
+                },
+                "lisainfo": "Graafilise disaini loomine"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Victor",
+                    "perekonnanimi": "Smirnov",
+                    "roll": "Anal\u00fc\u00fctik",
+                    "sisselogimisaeg": "2024-10-23T14:00:00",
+                    "kinnitusstaatus": "Kinnitatud"
+                },
+                "lisainfo": "Turuanal\u00fc\u00fcs"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Irina",
+                    "perekonnanimi": "Pavlova",
+                    "roll": "Testija",
+                    "sisselogimisaeg": "2024-10-24T08:30:00",
+                    "kinnitusstaatus": "Ootel"
+                },
+                "lisainfo": "Testitud v\u00e4ljundite kvaliteeti"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Mikhail",
+                    "perekonnanimi": "Lebedev",
+                    "roll": "Administraator",
+                    "sisselogimisaeg": "2024-10-25T10:10:00",
+                    "kinnitusstaatus": "Kinnitatud"
+                },
+                "lisainfo": "Serveri konfiguratsiooni muudatused"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Ksenia",
+                    "perekonnanimi": "Yakovleva",
+                    "roll": "Kujundaja",
+                    "sisselogimisaeg": "2024-10-26T13:50:00",
+                    "kinnitusstaatus": "Ootel"
+                },
+                "lisainfo": "Kujundatud uued ikoonid"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Denis",
+                    "perekonnanimi": "Markov",
+                    "roll": "Arhitekt",
+                    "sisselogimisaeg": "2024-10-27T15:30:00",
+                    "kinnitusstaatus": "Kinnitatud"
+                },
+                "lisainfo": "Tehnilise arhitektuuri p\u00f5him\u00f5tete \u00fclevaade"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Roman",
+                    "perekonnanimi": "Volkov",
+                    "roll": "Anal\u00fc\u00fctik",
+                    "sisselogimisaeg": "2024-10-28T09:40:00",
+                    "kinnitusstaatus": "Ootel"
+                },
+                "lisainfo": "Andmete anal\u00fc\u00fcs ja raporteerimine"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Ivan",
+                    "perekonnanimi": "Petrov",
+                    "roll": "Juht",
+                    "sisselogimisaeg": "2024-10-24T10:30:00",
+                    "kinnitusstaatus": "Kinnitatud"
+                },
+                "lisainfo": "Osales juhtimises"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Olga",
+                    "perekonnanimi": "Sergeeva",
+                    "roll": "Kujundaja",
+                    "sisselogimisaeg": "2024-10-21T08:45:00",
+                    "kinnitusstaatus": "Kinnitatud"
+                },
+                "lisainfo": "Loodud uus kujundus"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Nikolai",
+                    "perekonnanimi": "Kuznetsov",
+                    "roll": "Arhitekt",
+                    "sisselogimisaeg": "2024-10-21T09:00:00",
+                    "kinnitusstaatus": "Ootel"
+                },
+                "lisainfo": "Projekt arhitektuuri plaan"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Anna",
+                    "perekonnanimi": "Morozova",
+                    "roll": "Testija",
+                    "sisselogimisaeg": "2024-10-24T11:00:00",
+                    "kinnitusstaatus": "Kinnitatud"
+                },
+                "lisainfo": "Testis uusi funktsioone"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Vladimir",
+                    "perekonnanimi": "Popov",
+                    "roll": "Administraator",
+                    "sisselogimisaeg": "2024-10-25T12:15:00",
+                    "kinnitusstaatus": "Ootel"
+                },
+                "lisainfo": "S\u00fcsteemi hooldus"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Ekaterina",
+                    "perekonnanimi": "Fedorova",
+                    "roll": "Disainer",
+                    "sisselogimisaeg": "2024-10-26T08:15:00",
+                    "kinnitusstaatus": "Kinnitatud"
+                },
+                "lisainfo": "Uus kujundus"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Sergey",
+                    "perekonnanimi": "Zaitsev",
+                    "roll": "Anal\u00fc\u00fctik",
+                    "sisselogimisaeg": "2024-10-27T10:45:00",
+                    "kinnitusstaatus": "Ootel"
+                },
+                "lisainfo": "Andmeanal\u00fc\u00fcsi teostamine"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Igor",
+                    "perekonnanimi": "Vasilev",
+                    "roll": "Arendaja",
+                    "sisselogimisaeg": "2024-10-15T14:00:00",
+                    "kinnitusstaatus": "Kinnitatud"
+                },
+                "lisainfo": "Arendatud uus moodul"
+            },
+            {
+                "kasutaja": {
+                    "nimi": "Natalia",
+                    "perekonnanimi": "Mikhailova",
+                    "roll": "Testija",
+                    "sisselogimisaeg": "2024-10-20T10:20:00",
+                    "kinnitusstaatus": "Ootel"
+                },
+                "lisainfo": "Funktsionaalsuse testimine"
+            }
+        ]
+    }
+}

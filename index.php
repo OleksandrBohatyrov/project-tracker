@@ -78,4 +78,14 @@ if (file_exists('projekti-aruanded.xml')) {
 } else {
     exit('Failed to open projekti-aruanded.xml.');
 }
+
+$json = simplexml_load_file('projekti-aruanded.xml');
+$json = json_encode($json, JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
+
+file_put_contents('projekti-aruanded.json', $json);
+
+
+//header('Content-type: application/json');
+//echo $json;
+
 ?>
