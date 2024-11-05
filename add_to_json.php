@@ -37,7 +37,7 @@ if (file_exists($jsonFilePath)) {
 <head>
     <meta charset="UTF-8">
     <title>Lisa uus aruanne</title>
-    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="styleAdd.css">
 </head>
 <body>
 <nav>
